@@ -1,0 +1,10 @@
+CS558 : COMPUTER SYSTEM LAB ASSIGNMENT - 05
+Instructor : Dr. Manas Khatua and Dr. Moumita Patra
+TA's : Alakesh Kalita, Arunav Saikia, Meenu Rani Dey, Priya Undriwade, Vinay Kumar Gupta
+Sumbittted By : Himanshu Patel(204101029), Ketan Karnakota(204101030)
+Enter the number of slots : 3
+Enter the blocks : 
+1 2 1 1 3 4 5 2 6 7 9 1 2 2 3 4
+
+Replaced blocks are : 2 3 1 4 5 2 6 7 9 1 
+Total replacements were 10
